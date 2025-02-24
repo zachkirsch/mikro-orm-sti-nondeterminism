@@ -9,11 +9,11 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@mikro-orm/cli": "6.4.0",
-    "@mikro-orm/core": "6.4.0",
-    "@mikro-orm/postgresql": "6.4.0",
-    "@mikro-orm/reflection": "6.4.0",
-    "@mikro-orm/migrations": "6.4.0"
+    "@mikro-orm/cli": "6.4.7",
+    "@mikro-orm/core": "6.4.7",
+    "@mikro-orm/postgresql": "6.4.7",
+    "@mikro-orm/reflection": "6.4.7",
+    "@mikro-orm/migrations": "6.4.7"
   },
   "devDependencies": {
     "@types/jest": "^29.5.8",
